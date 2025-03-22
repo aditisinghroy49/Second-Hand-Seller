@@ -1,56 +1,11 @@
-# Second-Hand-Products-Sell
+# Second-Hand-Books-Selling Website
 
-#### Please give this project a star if this helped you in any way.
 
-This is a MERN project specially for selling and buying the second hand products.
+This is a MERN project specially for selling and buying the second hand books.
 
 # A complete MERN ecommerce website
 
-This contains all the features that an ecommerce website should have.
-Link to the website [Click here](https://kinbechsaman.herokuapp.com/)
 
-
-
-#### To have an admin privelege
-
-##### email= gomacef971@tinydef.com
-
-##### password= 12345678
-### For email functionality, email may have come in your spam folder sometimes. 
-
-#### Some of the Screenshots
-
-#### Homepage
-
-<p align="center">
-
-<img src="/Images/Screenshot from 2021-12-05 15-03-52.png" width="800px">
-
-#### Single Product Page
-
-<img src="/Images/Screenshot from 2021-12-05 15-00-29.png" width="800px">
-
-#### Product Upload Page
-
-<img src="/Images/Screenshot from 2021-12-05 14-59-29.png" width="800px">
-
-#### Verification Email to the seller
-
-<img src="/Images/Screenshot from 2021-12-05 15-02-40.png" width="800px">
-
-#### Verifictaion During sign Up
-
-<img src="/Images/Screenshot from 2021-12-05 14-50-36.png" width="800px">
-
-#### Admin Users
-
-<img src="/Images/Screenshot from 2021-12-05 14-51-31.png" width="800px">
-
-#### Admin Products
-
-<img src="/Images/Screenshot from 2021-12-05 14-51-49.png" width="800px">
-
-</p>
 
 #### How to get Started?
 
